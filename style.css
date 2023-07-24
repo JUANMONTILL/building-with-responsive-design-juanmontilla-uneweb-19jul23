@@ -62,7 +62,7 @@ img {
 }
 
 .logo-image {
-  padding-left: 0.8rem;
+  padding: 0.8rem;
 }
 
 .top-navbar {
@@ -116,11 +116,6 @@ img {
 	border-left: 1px solid var(--gray-two);
 }
 
-.flex-grow-search {
-	flex-grow: 9;
-}
-
-
 /* end mobile screen style */
 
 /* tablet screen style */
@@ -147,11 +142,11 @@ img {
 		align-items: center;
 	}
 
-	.first-item-top-navbar {
+	.firts-item-top-navbar {
 		padding-left: 1.35rem;
 	}
 
-	.link-first-item-top-navbar {
+	.link-firts-item-top-navbar {
     color: white;
 		text-decoration: none;
 	}
@@ -179,7 +174,7 @@ img {
 		align-items: center;
 	}
 
-	.first-item-bottom-navbar {
+	.firts-item-bottom-navbar {
 		padding: 0 0.85rem 0 1.5rem;
 	}
 
